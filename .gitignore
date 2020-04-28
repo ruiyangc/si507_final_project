@@ -1,2 +1,4 @@
 secrets.py
 __pycache__
+movies_cache.json
+movies.sqlite
